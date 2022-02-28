@@ -142,7 +142,7 @@ const bigProjects = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+62-37847819",
+  number: "+62-82137847819",
   email_address: "rubyabdullah14@gmail.com"
 };
 
