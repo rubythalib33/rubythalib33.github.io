@@ -131,7 +131,7 @@ const bigProjects = {
       link: "https://www.aiforindonesia.org/"
     },
     {
-      image: "https://i0.wp.com/www.tokofilterair.com/wp-content/uploads/2020/11/cropped-LOGO.png",
+      image: "tokokita.jpeg",
       link: "https://www.tokofilterair.com/"
     }
   ]
